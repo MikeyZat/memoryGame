@@ -38,7 +38,7 @@ const insertDivToMap = (text, map, id, description = false) => {
     div.innerText = text;
     div.my_id = id;
     div.className = "card";
-    if(description) div.classList.add("description")
+    if(description) div.classList.add("description");
     div.addEventListener("click", handleClick);
     while (map[randomRow].length > 7)
         randomRow = Math.floor((Math.random() * map.length));

@@ -29,43 +29,57 @@ export const data_list = [
         description:"...samodzielna, wysoce specjalistyczna metoda leczenia chorób i zaburzeń o psychogennym pochodzeniu."
     },
     {
-        name:"7",
-        description:"opis 7",
+        name:"Wśród stresorów wyróżniamy:",
+        description:"- Kataklizmy dotyczące całej populacji ludzkiej, w tym samym czasie\n- osobiste: śmierć współmałżonka, rozwód\n- drugoplanowe: hałas, masowe reakcje",
     },
     {
-        name:"8",
-        description:"opis 8",
+        name:"Teoria Baltrusha to...",
+        description:"Opis procesu kancerogenezy w oparciu o podłoże psychologiczne składające się z 3 etapów:\n - Inicjacji\n- Promocji\n- Progresja",
     },
     {
-        name:"9",
-        description:"opis 9",
+        name:"Do psychologicznych czynników leczących należą:",
+        description:"poczucie wsparcia, pomocy osobistej, zrozumienia, sensu, motywacja do leczenia, nadzieja, humor, odreagowanie, otwartość",
     },
     {
-        name:"10",
-        description:"opis 10",
+        name:"Cechy aktywnego słuchania:",
+        description:"- Potwierdzenie odbioru informacji\n" +
+            "- Uścislanie wypowiedzi i sformułowań\n" +
+            "- Klaryfikacja\n" +
+            "- Odzwierciedlanie uczuć\n" +
+            "- Odzwierciedlanie potrzeb\n",
     },
     {
-        name:"11",
-        description:"opis 11",
+        name:"Cele komunikacji terapeutycznej:",
+        description:"- Łagodzenie emocjonalnych skutków choroby\n" +
+            "- Wspieranie psychicznych sił pacjenta\n" +
+            "- Nawiązanie dobrej współpracy z pacjentem\n"
     },
     {
-        name:"12",
-        description:"opis 12",
+        name:"Podstawy sprzyjające komunikacji:",
+        description:"- Akceptacja\n" +
+            "- Empatia\n" +
+            "- Autentyczność\n" +
+            "- Asertywność",
     },
     {
-        name:"13",
-        description:"opis 13",
+        name:"Czynnki zakłucające relację terapeutyczną:",
+        description:"- Brak motywacji pacjenta do leczenia\n" +
+            "- Nieufność pacjenta\n" +
+            "- Agresja\n" +
+            "- Manipulacja\n" +
+            "- Ignorancja\n" +
+            "- Brak podstawowych umiejętności komunikowania się",
     },
     {
-        name:"14",
-        description:"opis 14",
+        name:"Wzór zachowania A",
+        description:"Zespół zachowań cechujący się silną potrzebą dominacji, presją czasu, szybkim mówieniem i znacznym poziomem wrogości wobec otoczenia",
     },
     {
-        name:"15",
-        description:"opis 15",
+        name:"Wzór zachowania B",
+        description:"Zespół zachowań cechujący się niską skłonnością do podejmowania wyzwań, łagodnym usposobieniem, odprężeniem",
     },
     {
-        name:"16",
-        description:"opis 16",
+        name:"Wzór zachowania C",
+        description:"Zespół zachowań cechujący się kooperatywnością, spokojem, cierpliwością, brakiem asertywności, ukrywaniem negatywnych emocji, uległością wobec zewnętrznych autorytetów",
     }
 ];
